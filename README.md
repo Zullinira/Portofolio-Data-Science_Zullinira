@@ -6,4 +6,4 @@
   - In addition, the project aims to provide recommendations for countries that are more eligible to receive aid donations
   - Using Exploratory Data Analysis (EDA) techniques and Unsupervised Learning
 
-# [2. Exploratory Data Analysis (EDA)] (https://github.com/Zullinira/Intermediate-Python-AI/blob/main/Project%20Akhir%20-%20Intermediate%20Pyhton.ipynb)
+# [2. Exploratory Data Analysis (EDA)](https://github.com/Zullinira/Intermediate-Python-AI/blob/main/Project%20Akhir%20-%20Intermediate%20Pyhton.ipynb)
