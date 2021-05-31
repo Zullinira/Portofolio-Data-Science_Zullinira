@@ -1,4 +1,5 @@
 # Portofolio-Data-Science_Zullinira Dwi Utami
+Hello, I'm Zullinira Dwi Utami :wave:. I am a master student of science at Bandung Institute of Technology (ITB) majoring in physics. Welcome to my portofolio :receipt:.
 
 # Project : 
 # [1. Clustering the Countries by using K-Means ](https://github.com/Zullinira/Mini-Project-K-Means--Cluster-ML)
