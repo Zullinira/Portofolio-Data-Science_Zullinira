@@ -7,7 +7,7 @@ Hello, I'm Zullinira Dwi Utami :wave:. I am a master student of science at Bandu
   - In addition, the project aims to provide recommendations for countries that are more eligible to receive aid donations
   - Using Exploratory Data Analysis (EDA) techniques and Unsupervised Learning (Machine Learning)
   
-  **Input** : Dataset (.csv) [link dataset](https://github.com/Zullinira/Mini-Project-K-Means--Cluster-ML/blob/main/Data_Negara_HELP.csv)
+  **Input** : Dataset (.csv) [link download dataset](https://github.com/Zullinira/Mini-Project-K-Means--Cluster-ML/blob/main/Data_Negara_HELP.csv)
   
   **Output :**
   - Bivariate and univariate analysis
@@ -19,4 +19,13 @@ Hello, I'm Zullinira Dwi Utami :wave:. I am a master student of science at Bandu
  
  For the full result, please check my document (.pdf). [Click here](https://github.com/Zullinira/Mini-Project-K-Means--Cluster-ML/blob/main/Final%20Project%20Zullinira.pdf)
  
-# [2. Exploratory Data Analysis (EDA)](https://github.com/Zullinira/Intermediate-Python-AI/blob/main/Project%20Akhir%20-%20Intermediate%20Pyhton.ipynb)
+# [2. Exploratory Data Analysis (EDA) for Hotel Data Analysis](https://github.com/Zullinira/EDA-for-Hotel-Data-Analysis)
+  - This project is a mini project from Intermediate Bootcamp that be held for 4 weeks.
+  - This project using Exploratory Data Analysis (EDA) techniques 
+  - The aim of this project is to analyse the available rooms
+  
+ **Input** : Dataset (.csv) [link download dataset](https://github.com/Zullinira/EDA-for-Hotel-Data-Analysis/blob/main/airbnb.csv)
+  
+  **Output :**
+  - Cleaning the dataset
+  - Visualize the price to compare the price of available rooms
