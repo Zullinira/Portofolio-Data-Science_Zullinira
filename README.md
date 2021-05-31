@@ -16,5 +16,7 @@ Hello, I'm Zullinira Dwi Utami :wave:. I am a master student of science at Bandu
   - Clustering countries (3D) using some important factors 
   - Clustering the coutries that are more eligible to receive aid donations from Help International
  ![alt text](https://github.com/Zullinira/Mini-Project-K-Means--Cluster-ML/blob/main/hasil.JPG)
-
+ 
+ For the full result, please check my document (.pdf). [Click here](https://github.com/Zullinira/Mini-Project-K-Means--Cluster-ML/blob/main/Final%20Project%20Zullinira.pdf)
+ 
 # [2. Exploratory Data Analysis (EDA)](https://github.com/Zullinira/Intermediate-Python-AI/blob/main/Project%20Akhir%20-%20Intermediate%20Pyhton.ipynb)
