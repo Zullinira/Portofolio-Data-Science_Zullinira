@@ -7,7 +7,7 @@ Hello, I'm Zullinira Dwi Utami :wave:. I am a master student of science at Bandu
   - In addition, the project aims to provide recommendations for countries that are more eligible to receive aid donations
   - Using Exploratory Data Analysis (EDA) techniques and Unsupervised Learning (Machine Learning)
   
-  **Input** : Dataset (.csv) [link dataset](https://github.com/Zullinira/Mini-Project-K-Means--Cluster-ML/blob/main/Data_Negara_HELP.csv)
+  **Input** : Dataset (.csv) [link dataset](https://github.com/Zullinira/Mini-Project-K-Means--Cluster-ML/blob/main/Data_Negara_HELP.csv | width=100)
   
   **Output :**
   - Clustering the coutries that are more eligible to receive aid donations from Help International
