@@ -30,7 +30,7 @@ Hello, I'm Zullinira Dwi Utami :wave:. I am a master student of science at Bandu
   - Cleaning the dataset
   - Visualize the price to compare the price of available rooms
 
-# [3. Titanic-Survival-Prediction] (https://github.com/Zullinira/Titanic-Survival-Prediction)
+# [3. Titanic-Survival-Prediction](https://github.com/Zullinira/Titanic-Survival-Prediction)
   - The aim of this project is building a predictive model that shows people were more likely to survive in Titanic Tragedy
   - Using Exploratory Data Analysis (EDA) techniques and Supervised Learning (Machine Learning)
   - Using K-Nearest Neighbors (K-NN) (Accuracy : 81%)
