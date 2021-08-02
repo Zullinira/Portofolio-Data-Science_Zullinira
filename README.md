@@ -30,18 +30,6 @@
   ⭐**Output :**
   - Predict Model how will survive in Titanic Tragedy
   - K-Nearest Neighbors (K-NN) has a higher accuracy than other algorithms
-
-# [4. Titanic-Survival-Prediction](https://github.com/Zullinira/Titanic-Survival-Prediction)
-  - The aim of this project is building a predictive model that shows people were more likely to survive in Titanic Tragedy
-  - Using Exploratory Data Analysis (EDA) and Supervised Learning (Decition Tree, Logistic Regression, K-Nearset Neighbors (K-NN))
-  
-  ⭐**Input** : 
-  - Dataset Train (.csv) [link download dataset](https://github.com/Zullinira/Titanic-Survival-Prediction/blob/main/train1.csv)
-  - Dataset Test to apply model (.csv) [link download dataset](https://github.com/Zullinira/Titanic-Survival-Prediction/blob/main/test.csv)
-  
-  ⭐**Output :**
-  - Predict Model how will survive in Titanic Tragedy
-  - K-Nearest Neighbors (K-NN) has a higher accuracy than other algorithms
   
 # [3. Exploratory Data Analysis (EDA) for Hotel Data Analysis](https://github.com/Zullinira/EDA-for-Hotel-Data-Analysis)
   - This project is a mini project from Intermediate Bootcamp that be held for 4 weeks.
