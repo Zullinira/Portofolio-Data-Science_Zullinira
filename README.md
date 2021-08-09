@@ -33,7 +33,7 @@
  
  ## ✨[3. Image-Classification / Rock - Paper - Scissors](https://github.com/Zullinira/Image-Classification)✨
  - The aim of this project is to predict a certain image from other images that have been trained
-
+ - Library : Pandas, Numpy, Matplotlib, Tensorflow, Keras
 
   🔸**Input** : 
   Dataset (.csv) [link download dataset](https://www.kaggle.com/drgfreeman/rockpaperscissors)
