@@ -58,7 +58,7 @@
   ![alt text](https://github.com/Zullinira/Customer-Churn/blob/main/Model%20Accuracy.PNG)
 
 
-## ✨[4. Regularized-Linear-Regression-in-R](https://github.com/Zullinira/Regularized-Linear-Regression-in-R)✨
+## ✨[5. Regularized-Linear-Regression-in-R](https://github.com/Zullinira/Regularized-Linear-Regression-in-R)✨
 - The aim of this project is to predic house price in Boston using regression linear
 - This project compare  ridge regression and lasso regression
 
@@ -69,7 +69,7 @@
 - Price house predict in Boston
 - RMSE Ridge Regression is lower than RMSE Lasso Regression  
 
-## ✨[5. Exploratory Data Analysis (EDA) for Hotel Data Analysis](https://github.com/Zullinira/EDA-for-Hotel-Data-Analysis)✨
+## ✨[6. Exploratory Data Analysis (EDA) for Hotel Data Analysis](https://github.com/Zullinira/EDA-for-Hotel-Data-Analysis)✨
   - This project is a mini project from Intermediate Bootcamp that be held for 4 weeks.
   - This project using Exploratory Data Analysis (EDA) techniques 
   - The aim of this project is to analyse the available rooms
