@@ -43,7 +43,21 @@
   - Produce high-accuracy models (97%)
   
   ![alt text](https://github.com/Zullinira/Image-Classification/blob/main/hasil.PNG)
+
+## ✨[4. Customer Churn Analysis](https://github.com/Zullinira/Customer-Churn)✨
+  - The aim of this project is building a predictive model that shows customers churn in Telco dataset
+  - Using Exploratory Data Analysis (EDA) and Supervised Learning (Decition Tree, Logistic Regression, Random Forest)
+
+ 🔸**Input** :
+  - Dataset Telco from Kaggle (.csv) [link download dataset](https://github.com/Zullinira/Customer-Churn/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv)
   
+🔸**Output :**
+  - Predict Model who will leave the company / customer churn
+  - Logistic Regression has a higher accuracy than other algorithms
+
+  ![alt text](https://github.com/Zullinira/Customer-Churn/blob/main/Model%20Accuracy.PNG)
+
+
 ## ✨[4. Regularized-Linear-Regression-in-R](https://github.com/Zullinira/Regularized-Linear-Regression-in-R)✨
 - The aim of this project is to predic house price in Boston using regression linear
 - This project compare  ridge regression and lasso regression
